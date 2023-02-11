@@ -77,10 +77,10 @@
     </style>
   </head>
   <body>
-    <div class="navbar">
-      <a href="https://thy-ghy.itch.io/">My Itch.io</a>
-      <a href="#">About Me</a>
-      <a href="#">Twitter</a>
+    <div class="navbar" style="top: 5%;">
+  <a href="https://thy-ghy.itch.io/">My Itch.io</a>
+  <a href="#">About Me</a>
+  <a href="#">Twitter</a>
     </div>
     <div class="centerblock">
 <h1>Thy_Ghy</h1>
