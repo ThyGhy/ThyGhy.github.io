@@ -84,7 +84,6 @@
     </div>
     <div class="centerblock">
 <h1>Thy_Ghy</h1>
-<h3>Maurion Herring</h3>
 <h2>Game Developer, Designer and Creator</h2>
 <h3>Welcome to my website</h3>
 </div>
