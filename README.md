@@ -34,6 +34,9 @@
         position: absolute;
         top: 0;
         left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
       }
       .navbar a {
         font-size: 20px;
@@ -42,6 +45,21 @@
         text-shadow: 0 0 5px darkgrey, 0 0 10px darkgrey, 0 0 15px darkgrey;
         text-decoration: none;
         margin-right: 20px;
+        position: relative;
+        padding: 0 10px;
+      }
+      .navbar a:after {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 50%;
+        right: 0;
+        width: 1px;
+        height: 60%;
+        background-color: white;
+      }
+      .navbar a:last-child:after {
+        display: none;
       }
       .centerblock {
         background-color: #333333;
