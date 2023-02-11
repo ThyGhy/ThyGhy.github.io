@@ -1,5 +1,7 @@
 <html>
   <head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1252989978389601"
+     crossorigin="anonymous"></script>
     <title>Thy_Ghy</title>
     <style>
       body {
