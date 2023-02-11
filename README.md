@@ -47,15 +47,16 @@
         margin-right: 20px;
         position: relative;
         padding: 0 10px;
+        margin-left: 10px;
       }
       .navbar a:after {
         content: "";
         display: block;
         position: absolute;
-        top: 50%;
+        top: 0;
         right: 0;
         width: 1px;
-        height: 60%;
+        height: 90%;
         background-color: white;
       }
       .navbar a:last-child:after {
